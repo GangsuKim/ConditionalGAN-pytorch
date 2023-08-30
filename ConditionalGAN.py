@@ -5,8 +5,6 @@ from utils.Maxout import Maxout
 
 """
 Simple implementation of Uni-modal ConditionalGAN introduced by Mirza et al. 2014.
-
-
 """
 
 
